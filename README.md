@@ -2,10 +2,10 @@
 
 This submission features:
 
-- Many detailed improvement to the previous mpw6 submission. 
+- Many detailed improvement to the previous [mpw6 submission](https://github.com/chrische-xx/mpw6).
 - Critical bugfixes related to connection issues on top-level.
 
-- The first open source 10 bit SAR-ADC
+- 10 bit SAR-ADC
 - Bandgap reference.
 - Testbuffer with multiplexer input.
 - Clock generator
@@ -186,7 +186,7 @@ to operate the ADC.
 
 # To be Continued...
 
-If this project gets a place on the MPW6 shuttle, I will continue
+If this project gets a place on the MPW7 shuttle, I will continue
 to characterize the ASIC, using a opensource measurement flow.
 The results will then be published on this page/repo
 
