@@ -113,8 +113,10 @@ C {devices/lab_wire.sym} 110 -250 0 0 {name=p19 lab=en_clkdiv}
 C {devices/lab_wire.sym} 110 -290 0 0 {name=p20 lab=clksel}
 C {devices/lab_wire.sym} 110 -350 0 0 {name=p21 lab=refsel}
 C {devices/lab_wire.sym} 110 -370 0 0 {name=p22 lab=vbg_ext}
-C {devices/vsource.sym} 680 -120 0 0 {name=V2 value=0}
-C {devices/vsource.sym} 600 -120 0 0 {name=V3 value=1.8}
+C {devices/vsource.sym} 680 -120 0 0 {name=vss value=0
+}
+C {devices/vsource.sym} 600 -120 0 0 {name=vdd value=1.8
+}
 C {devices/lab_wire.sym} 710 -180 0 0 {name=l7 sig_type=std_logic lab=vss}
 C {devices/lab_wire.sym} 630 -180 0 0 {name=l8 sig_type=std_logic lab=vdd}
 C {devices/gnd.sym} 600 -70 0 0 {name=l11 lab=GND}
