@@ -5,6 +5,8 @@ This submission features:
 - Many detailed improvement to the previous [mpw6 submission](https://github.com/chrische-xx/mpw6).
 - Critical bugfixes related to connection issues on top-level.
 
+Blocks in this submission:
+
 - 10 bit SAR-ADC
 - Bandgap reference.
 - Testbuffer with multiplexer input.
