@@ -202,3 +202,13 @@ Various topics from bandgap reference to sampling switch circuits.
 [A circuit for all Seasons - B. Razavi](https://www.seas.ucla.edu/brweb/journal.html)
 
 
+# Changes from MPW6
+
+- Connection to caravel wrapper on top-level
+- Increased metal widths and vias.
+- Improved regulator layout. 
+- Improved bandgap amplifier performance.
+- Updated verilog of SAR, to keep valid pin in a high state after single shot conversion.
+- Adressed potential antenna issue in DAC connection.
+- Overall layout cleanup.
+- Added sx-cut to allow for seperate ground extraction.
